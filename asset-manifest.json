@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ReactHosted/static/css/main.354dafce.chunk.css",
+    "main.js": "/ReactHosted/static/js/main.5c18cc69.chunk.js",
+    "main.js.map": "/ReactHosted/static/js/main.5c18cc69.chunk.js.map",
+    "runtime-main.js": "/ReactHosted/static/js/runtime-main.5768031c.js",
+    "runtime-main.js.map": "/ReactHosted/static/js/runtime-main.5768031c.js.map",
+    "static/css/2.74c02967.chunk.css": "/ReactHosted/static/css/2.74c02967.chunk.css",
+    "static/js/2.1d80c0dd.chunk.js": "/ReactHosted/static/js/2.1d80c0dd.chunk.js",
+    "static/js/2.1d80c0dd.chunk.js.map": "/ReactHosted/static/js/2.1d80c0dd.chunk.js.map",
+    "index.html": "/ReactHosted/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/ReactHosted/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.354dafce.chunk.css.map": "/ReactHosted/static/css/main.354dafce.chunk.css.map",
+    "static/js/2.1d80c0dd.chunk.js.LICENSE.txt": "/ReactHosted/static/js/2.1d80c0dd.chunk.js.LICENSE.txt",
+    "static/media/Hyt01.7cc4bdb7.jpg": "/ReactHosted/static/media/Hyt01.7cc4bdb7.jpg",
+    "static/media/Hyt02.a015aacf.jpg": "/ReactHosted/static/media/Hyt02.a015aacf.jpg",
+    "static/media/Hyt03.d6ea35fb.jpg": "/ReactHosted/static/media/Hyt03.d6ea35fb.jpg",
+    "static/media/Hyt04.0d072618.jpg": "/ReactHosted/static/media/Hyt04.0d072618.jpg",
+    "static/media/Hyt05.e4dd867f.jpg": "/ReactHosted/static/media/Hyt05.e4dd867f.jpg",
+    "static/media/Hyt06.b0d14777.jpg": "/ReactHosted/static/media/Hyt06.b0d14777.jpg",
+    "static/media/Hyt07.4cb4558c.jpg": "/ReactHosted/static/media/Hyt07.4cb4558c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5768031c.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.1d80c0dd.chunk.js",
+    "static/css/main.354dafce.chunk.css",
+    "static/js/main.5c18cc69.chunk.js"
+  ]
+}
